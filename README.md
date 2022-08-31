@@ -5,6 +5,13 @@ numpy arrays. In the ROS 2 port, the module has been renamed to
 `ros2_numpy`. Users are encouraged to update their application code to import
 the module as shown below.
 
+In addition to the original fork of [Box-Robotics](https://github.com/Box-Robotics/ros2_numpy)
+this code can be installed as an regular python module via:
+
+```
+python3 setup.py install
+
+
 ROS 2:
 
 ```
