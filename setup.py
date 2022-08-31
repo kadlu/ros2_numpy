@@ -7,4 +7,4 @@ setup(name='ros2_numpy',
                 'ros2_nunpy.image',
                 'ros2_numpy.occupancy_grid',
                 'ros2_numpy.point_cloud2',
-                'ros2_numpy.registry])
+                'ros2_numpy.registry'])
