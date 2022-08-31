@@ -10,6 +10,7 @@ this code can be installed as an regular python module via:
 
 ```
 python3 setup.py install
+```
 
 
 ROS 2:
